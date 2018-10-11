@@ -1,0 +1,10 @@
+/ezy.egg-info/
+/dist/
+build/
+.settings/
+.project
+.classpath
+*.pyc
+/ezyenv/
+/__pycache__/
+/.pydevproject
